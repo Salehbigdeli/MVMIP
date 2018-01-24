@@ -9,3 +9,10 @@ img {
     width: 100px;
     height: 100px;
 }
+ul {
+    display: flex;
+    list-style: none;
+}
+li {
+    margin: 10px;
+}
